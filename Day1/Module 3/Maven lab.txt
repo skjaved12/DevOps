@@ -1,0 +1,10 @@
+Installing Maven
+
+Search under eclispe marketplace
+
+https://www.youtube.com/watch?v=u103BzjTIM8
+7774080173
+
+Creating Maven Project:
+
+https://www.youtube.com/watch?v=sNEcpw8LPpo&t=32s
